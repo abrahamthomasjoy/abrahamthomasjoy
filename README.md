@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abraham Thomas Joy 👋
 
-<!--
-**abrahamthomasjoy/abrahamthomasjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Robotics & Mechatronics undergraduate, minoring in AI/ML  
+🤖 Interested in intelligent robotic systems — from embedded AI to autonomous navigation
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧤 [AI-based Smart Glove for E-Waste Management](https://github.com/abrahamthomasjoy/AI-based-E-waste-Smart-Glove)
+A wearable device that uses AI to assist in sorting/handling electronic waste, combining sensor input with intelligent classification.
+
+## 🛠️ Skills & Tools
+- **Robotics:** Mechatronic design, sensor integration, embedded systems
+- **AI/ML:** Applied machine learning for classification & automation
+- **Tools:** *(add: Arduino / Raspberry Pi / ROS / Python / etc. — whatever you actually use)*
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/abrahamthomasjoy
+- Email: abrahamthomasjoy@gmail.com
+
+---
+⭐️ Always exploring the intersection of robotics and AI.
